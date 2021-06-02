@@ -1,4 +1,5 @@
 require 'pry'
+require './lib/pry_debugging.rb'
 
 def hopper
 	programmer_hash = 
